@@ -1,0 +1,5 @@
+Line 596	RunInstallationProgramAs32BitProcessOn64BitClient		Force32BitInstaller 
+Line 619	AllowClientsToShareContentOnSameSubnet				EnableBranchCache
+		AllowClientsToUseFallbackSourceLocationForContent		EnableContentLocationFallback
+Line 665	AllowClientsToShareContentOnSameSubnet				EnableBranchCache
+		
